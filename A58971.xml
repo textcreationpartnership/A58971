@@ -1,0 +1,736 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second dream</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58971</idno>
+            <idno type="STC">Wing S2276</idno>
+            <idno type="STC">ESTC R10314</idno>
+            <idno type="EEBO-CITATION">11907152</idno>
+            <idno type="OCLC">ocm 11907152</idno>
+            <idno type="VID">50739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50739)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second dream</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>A poem tracing the troubles of the reign of James II to the government of Charles I.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  James II, 1685-1688 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50739:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:50739:1" rendition="simple:additions"/>
+            <head>The Second Dream.</head>
+            <lg>
+               <l>WHoever looks about, and minds things well,</l>
+               <l>And on th' Affairs o'th' World does take a View,</l>
+               <l>May think the Story which I here do tell,</l>
+               <l>Was never dreamt, 'cauſe it falls out ſo true.</l>
+               <l>I do confeſs 'tis ſomewhat hard to find</l>
+               <l>A crooked Path directly in the dark:</l>
+               <l>And when a Man's aſleep you know he's blind,</l>
+               <l>And cannot eas'ly hit upon a Mark.</l>
+               <l>No, not ſo blind, but Story oft has told</l>
+               <l>Of Sleep ſo Eagle-ey'd, and Dreams ſo bold</l>
+               <l>As could the hidden Depths of Fate unfold:</l>
+               <l>Orac'lous Dreams that op'ned the Book of Doom,</l>
+               <l>And ſaw at once paſt, preſent, and to come.</l>
+            </lg>
+            <lg>
+               <l>As t' other Night in Bed I thinking lay,</l>
+               <l>How I my Rent ſhould to my Landlord pay.</l>
+               <l>Since Wool, nor Corn, nor Beaſts wou'd Money make,</l>
+               <l>Tumbling perplext, theſe thoughts kept me awake.</l>
+               <l>What will become of this mad World, thought I!</l>
+               <l>Whence the Diſeaſe, and what the Remedy?</l>
+               <l>When will the Iſſue, whereto do's it tend?</l>
+               <l>In Mis'ry 'tis ſome Eaſe to know its end.</l>
+               <l>'Till Servants Dreaming as they us'd to do,</l>
+               <l>Snor'd me aſleep; I fell a Dreaming too.</l>
+               <l>So Dreamt— not Antick Forms, wild and unſhap'd,</l>
+               <l>From reſtleſs indigeſted Fumes eſcap'd;</l>
+               <l>When aking Brains their Wine-born Frenzies broach</l>
+               <l>The Riotous Creations of Debauch.</l>
+               <l>Nor did my bounded Fancy only lead</l>
+               <l>That narrow Dance that ſhallower Dreamers tread,</l>
+               <pb n="2" facs="tcp:50739:2"/>
+               <l>Who in their Nightly Forms repeat no more</l>
+               <l>Than what they only ſaw the day before.</l>
+               <l>No, for my Nobler more exalted Flight,</l>
+               <l>A loftier Wing, and a more ſoaring Spright</l>
+               <l>Rapt me aloft; whilſt my ſwift Thought up rears,</l>
+               <l>Born hurried back o're fifteen rowling Years.</l>
+               <l>Dully thoſe poor ſhort-ſighted Viſion play,</l>
+               <l>Who only ſee no farther than to day.</l>
+               <l>To Day; a Day, alas, too dull a Theam,</l>
+               <l>Where blazing Miſchief's ſeen by that broad beam,</l>
+               <l>The Buſineſs of to Day's not worth a Dream.</l>
+               <l>For too ſad Truths ſo plain need no beholding</l>
+               <l>To Dreamers or Southſayers for unfolding.</l>
+               <l>At open Noon to view the Banks of Seas</l>
+               <l>Broke down, who ſtands amaz'd at Deluges.</l>
+               <l>Right, Juſtice, Law, all Faith and Oaths laid by,</l>
+               <l>Who wonders at our later Slavery:</l>
+               <l>Where that profeſt avenging Thund'rer Reign'd,</l>
+               <l>His <hi>Cyclops</hi> at the Forge, with Sweat and Pains,</l>
+               <l>All bare fac'd at the Work of hamm'ring Chains.</l>
+               <l>Fate ſtrikes without Surprize, whoſe Bolt we ſee.</l>
+               <l>Nay ſweeping Plagues themſelves would ſcarely be</l>
+               <l>A mortal Wonderment; were but the keen</l>
+               <l>Sword Edge of the Deſtroying Angel ſeen.</l>
+               <l>T' explode the open Madneſs of this Age,</l>
+               <l>Is ſcarcely worthy a Poetick Rage.</l>
+               <l>Let Fools the full-grown Cockatrice admire!</l>
+               <l>My Speculative Thoughts more high aſpire:</l>
+               <l>Would track the Seeds, and new form'd Egg Survey,</l>
+               <l>And ſearch the very Neſt in which it lay.</l>
+               <l>Th' unſeen Firſt Machine of our Ills unmasking,</l>
+               <l>I, that's a curious Queſtion worth the asking:</l>
+            </lg>
+            <lg>
+               <l>Thus murm'ring long before to ſleep I went,</l>
+               <l>Some Friendly Pow'r a liſt'ning Ear had lent;</l>
+               <pb n="3" facs="tcp:50739:2"/>
+               <l>And by a kind illuminating Beam,</l>
+               <l>Reſolv'd to grant my Wiſhes in a Dream.</l>
+            </lg>
+            <lg>
+               <l>Back then to <hi>Charles</hi> his Reign my Thoughts were led.</l>
+               <l>How, back to <hi>Charles</hi> to trace the Fountain Head!</l>
+               <l>The unhappy Source of our long Ills began</l>
+               <l>Under that Eaſie, Calm, Unthinking Man!</l>
+               <l>Yes, poor Good <hi>Charles,</hi> hard fated to our Curſe,</l>
+               <l>Firſt lickt the Brat, leſt <hi>James</hi> to Rear and Nurſe.</l>
+            </lg>
+            <lg>
+               <l>Methought th' Old Great Cabal in number Seven,</l>
+               <l>Together met to make their Matters even;</l>
+               <l>Where cloſely they Conſulted how to play,</l>
+               <l>And each one ſpoke what he was pleas'd to ſay.</l>
+               <l>But firſt the Doors were all ſecurely ſhut,</l>
+               <l>And I behind the Arras cloſely put;</l>
+               <l>Where hear and ſee I could: but he that there</l>
+               <l>Had placed me, bad me have a ſpecial care</l>
+               <l>Of ſtirring, for my Life; and ere that out</l>
+               <l>From thence I came, reſolv'd ſhou'd be my doubt,</l>
+               <l>What would become of this mad World; unleſs</l>
+               <l>Preſent Deſigns were croſt with ill Succeſs.</l>
+               <l>An awful Silence there was kept ſome ſpace,</l>
+               <l>Till trembling thus began one call'd his Grace.</l>
+            </lg>
+            <sp>
+               <speaker>Bucks.]</speaker>
+               <l>Dread Sir, your Government the firſt Twelve Years</l>
+               <l>Has ſpoil'd your Monarchy, and made our Fears</l>
+               <l>So great, and many, we muſt now change quite</l>
+               <l>The fretful old Foundations, wrong or right.</l>
+               <l>The too great mixture of Democracy</l>
+               <l>Out of your Government muſt taken be.</l>
+               <l>And no way like to Nulling Parliaments;</l>
+               <l>Spawn of the People, always making Rents,</l>
+               <l>Factious and bold, diſputing Royal Pleaſure;</l>
+               <l>And your Commands they by their Humours meaſure.</l>
+               <l>A King in Manacles, to Rack Staves tied</l>
+               <l>You muſt remain, if thus you will abide.</l>
+               <pb n="4" facs="tcp:50739:3"/>
+               <l>So ſpoke this firſt, but by and by another,</l>
+               <l>Not quite ſo tall, but full as Wiſe a Brother,</l>
+            </sp>
+            <sp>
+               <speaker>[Ormond]</speaker>
+               <l>Did thus begin—Dread Sir, you now are on</l>
+               <l>A Tender Point, much to be thought upon;</l>
+               <l>And thought on only: For by ancient Law</l>
+               <l>'Tis Death to ſpeak't; which that raſh Lord foreſaw,</l>
+               <l>And trembled as he ſpoke. But, Sir, believe,</l>
+               <l>My ſafe Advice, I dare undaunted give.</l>
+               <l>Oh think not, Sir, t' attempt a Change ſo bold,</l>
+               <l>Nor let the Thought be ev'n in Whiſpers told,</l>
+               <l>'Gainſt what our Anceſtors ſecur'd ſo much,</l>
+               <l>That like the Sacred Mount 'tis Death to touch.</l>
+               <l>Such Dang'rous Councils give my Soul a check;</l>
+               <l>Nor do I like to make Tongue break my Neck.</l>
+            </sp>
+            <sp>
+               <speaker>[Lauerd]</speaker>
+               <lg>
+                  <l>Thus he, and then that Lord of <hi>Northern Tone</hi>
+                  </l>
+                  <l>In Gall and Guile a ſecond unto none,</l>
+                  <l>Inraged roſe, and Cholerich thus begun.</l>
+               </lg>
+               <lg>
+                  <l>Dread Majeſty, Male born of Fame, the Son</l>
+                  <l>Of Hundred and Ten Monarchs of the Nore,</l>
+                  <l>Deel ſplit the Wem o'th' Loon that ſpoke before:</l>
+                  <l>Shame faw the Crag of that miſ-mannor'd Lord,</l>
+                  <l>That near his King durſt ſpeak ſo faw a word.</l>
+                  <l>And on my Sol full well the firſt man meant,</l>
+                  <l>Deel lop his Lugs that loves a Parliament.</l>
+                  <l>Twa Houſes on my Sol are twa too mickle,</l>
+                  <l>Death! Ice ne're truck to thoſe faes Kna aves in pickle.</l>
+                  <l>No Siller get to gee the Bonny Laſs!</l>
+                  <l>Who can endure thus to be made an Aſs?</l>
+                  <l>Ten thouſand Plagues light on his Sol that 'gin.</l>
+                  <l>To gar you be but third part of a King.</l>
+                  <l>Deel tak my Sol, I'ſe ne're the matter mince:</l>
+                  <l>Ice rather Subject be than like a Prince.</l>
+                  <l>To hang and draw, and burn; and ſaw, and kill.</l>
+                  <l>And meaſure all things by my awn great Will.</l>
+                  <l>What's Kingſhip elſe; all Check-mates I do hate</l>
+                  <pb n="5" facs="tcp:50739:3"/>
+                  <l>Of Men or Laws; it looks too like a State.</l>
+                  <l>This eager well-meant Zeal ſome Laughter ſtirr'd.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>[Arling.]</speaker>
+               <lg>
+                  <l>'Till novv half-fiſh, half-fleſh, the Ink-horn Lord</l>
+                  <l>Craved Audience. Thus Grave, Majeſty Divine,</l>
+                  <l>To make you Great, let Gods and Men Combine.</l>
+                  <l>Now we are entred on the great Debate</l>
+                  <l>That does concern the Throne and Royal State,</l>
+                  <l>Contrive to make you High and Happy too,</l>
+                  <l>Is all that we at preſent have to do.</l>
+                  <l>Is it not ſtrange that at this Sacred Board</l>
+                  <l>There ſtill ſhould ſit a <hi>Magna Charta</hi> Lord?</l>
+                  <l>A piece of old Rebellious Barons Breed,</l>
+                  <l>The worſt and greateſt Foes of Royal Seed.</l>
+                  <l>But to proceed, it was well urg'd by's Grace,</l>
+                  <l>Such Liberty was had for Twelve Years ſpace</l>
+                  <l>Laſt paſt, that now there's great Neceſſity</l>
+                  <l>Of new Foundations if you ſafe will be.</l>
+                  <l>What Care, what Charge, what Art (before was ſet</l>
+                  <l>This Parliament) we us'd, you can't forget</l>
+                  <l>How forc'd to Court, Cajole, and Bribe for fear</l>
+                  <l>They wrong ſhould Act, e're ſince they have been here</l>
+                  <l>What Diligence, what Studies Day and Night</l>
+                  <l>Were we put on! What care to keep 'em right!</l>
+                  <l>If therefore you can't make this Parliament</l>
+                  <l>Do right, on whom ſuch Art and Pains was ſpent;</l>
+                  <l>Since <hi>Money</hi>'s all we have for them to do:</l>
+                  <l>If we miſs that, let's e'ne diſmiſs them too.</l>
+                  <l>'Tis true, this is the Beſt that you can call:</l>
+                  <l>But in my Judgment Beſt is none at all.</l>
+               </lg>
+               <lg>
+                  <l>Well mov'd, the whole Cabal cri'd, Parliaments</l>
+                  <l>Are Clogs to Princes, and their brave Intents.</l>
+                  <l>One did Object, 'Twas againſt Majeſty,</l>
+                  <l>To beg the Peoples Pleaſure Another he</l>
+                  <l>The Inconven'nce argued, and that we</l>
+                  <pb n="6" facs="tcp:50739:4"/>
+                  <l>Muſt cloſe and ſpeedy in our Actions be:</l>
+                  <l>Or elſe we fail in all our brave Deſign,</l>
+                  <l>This Senate Houſe Foundation t' undermine.</l>
+                  <l>But this confuſed Chat did order break;</l>
+                  <l>Many were mov'd, none heard, but all did ſpeak.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>[Chan.]</speaker>
+               <l>At length a long Rob'd Lord, <hi>Champion</hi> of <hi>State,</hi>
+               </l>
+               <l>The Crown's too faithful Drudge, to ſuch a height,</l>
+               <l>Rais'd only to be cruſht by his own Weight,</l>
+               <l>Begs ſilence, and his Counſel thus began,</l>
+               <l>Whilſt in this Style his artful Accents ran.</l>
+               <l>Beſt, and bleſt Monarch, that e're Scepter bore,</l>
+               <l>Renown'd for Honour, but for Vertue more.</l>
+               <l>The Lord that laſt did ſpeak has wiſely ſhown,</l>
+               <l>That Parliaments, nor new, nor old, or none</l>
+               <l>Ought to be truſted longer. Let them down,</l>
+               <l>A Conſtitution rais'd t' eclipſe the Crown.</l>
+               <l>Imperial Power by Vaſſals ſo controul'd,</l>
+               <l>A ſuff'ring Loyaliſt muſt with Grief behold.</l>
+               <l>That Monarchy may from its Child-hood grow</l>
+               <l>To Man's Eſtate, <hi>France</hi> do's th' Example ſhow.</l>
+               <l>Monarchy is Divine, and Text-Men ſay,</l>
+               <l>He backwards goes, that keeps not on his way.</l>
+               <l>Therefore go on, let other Kingdoms ſee</l>
+               <l>Your Will's your Law, as Monarch's ought to be</l>
+               <l>Away with all theſe Sawcy medling Chits,</l>
+               <l>That make you King but now and then by fits.</l>
+               <l>Nay, in thoſe fits too, they will ſtand and pauſe,</l>
+               <l>And boldly tell you, Kings muſt ſtoop to Laws.</l>
+               <l>Thus you may ſee what Factious Fools would have,</l>
+               <l>A King, and yet a Subject! This is brave.</l>
+               <l>Fy, fy, let's down with all ſuch Nonſenſe now,</l>
+               <l>And make theſe Inſolents to their Monarch bow.</l>
+               <l>A hotch-potch Mixture we'll no longer bear,</l>
+               <l>
+                  <hi>Caeſar</hi> or Nothing. Now you need not ſear.</l>
+               <pb n="7" facs="tcp:50739:4"/>
+               <l>If you'll but ſtrike now whil'ſt the Iron's hot,</l>
+               <l>There's no withſtanding of our Princely Plot.</l>
+               <l>Strike then, Great Sir, e're theſe Debates take Wind,</l>
+               <l>Remember ſtill <hi>Occaſion's bald behind.</hi>
+               </l>
+               <l>The Game is ſure in this, if wiſely play'd,</l>
+               <l>And Sacred Votes to th' Vulgar not betray'd.</l>
+               <l>But if this Rumour once ſhould get on Wing,</l>
+               <l>That we conſult to make you Abſolute King,</l>
+               <l>The <hi>Plebeian</hi> Heads and Gentry too forſooth</l>
+               <l>Would Snort and Spurn, and have an aking Tooth.</l>
+               <l>Left they therefore ſhould this great Secret ſcent,</l>
+               <l>And contradict us in this high Intent,</l>
+               <l>I think it ſafer and far better Skill</l>
+               <l>To obviate, than to o'rcome an Ill.</l>
+               <l>For thoſe that head the Herd are full as rude,</l>
+               <l>When th' Humour takes, as all the Multitude.</l>
+               <l>Wherefore be quick in your Reſolves, and when</l>
+               <l>You have reſolv'd, be quick in Action then.</l>
+               <l>Remember your great Father loſt the Game</l>
+               <l>By ſlow Procedure. Do not you the ſame.</l>
+               <l>One unſuſpected unregarded Blow</l>
+               <l>Wounds more than Ten made by an open Foe.</l>
+               <l>Delays breed Dangers: Sir, the Sword is yours<g ref="char:punc">▪</g>
+               </l>
+               <l>By Law declar'd, what need you other Pow'rs?</l>
+               <l>We may in Politicks be Judg'd, or worſe,</l>
+               <l>If we can't make the Sword Command the Purſe:</l>
+               <l>No Art your Government ſo well can ſhape</l>
+               <l>Without a Force, it muſt be done by Rape:</l>
+               <l>And when 'tis done, to ſay we cannot help,</l>
+               <l>Will ſatisfie enough the gentle Whelp.</l>
+               <l>Phanatick, they'll to Providence impute</l>
+               <l>Their Thraldom, and immediately grow mute.</l>
+               <l>For they poor Pious Fools think the Decree</l>
+               <l>Of Heaven is on them, tho' from Hell it be.</l>
+               <pb n="8" facs="tcp:50739:5"/>
+               <l>They muſt be ſilent under every ſtroke,</l>
+               <l>And readily ſubmit to any Yoke.</l>
+               <l>Thus vainly glorying in a paſſive Shame,</l>
+               <l>They'll put off Man to meet a Chriſtian Name.</l>
+               <l>Therefore to lull 'em, do their Hopes fulfil,</l>
+               <l>With <hi>Liberty,</hi> they'r halter'd at your Will.</l>
+               <l>Give them but Conventicle Room, and they</l>
+               <l>Wilt let you ſteal their <hi>Engliſhman</hi> avvay;</l>
+               <l>And heedleſs be till you your Nets have ſpread,</l>
+               <l>And pull'd down Conventicles o're their Head.</l>
+               <l>Militia then and Parliaments Caſhier,</l>
+               <l>And with all ſpeed a Standing Army rear,</l>
+               <l>To mount you up; and up you ſoon will be,</l>
+               <l>Thoſe that want Love, vvill fear your Monarchy.</l>
+               <l>And if they fear, no matter for their hate,</l>
+               <l>To Rule by Lavv becomes a Sneaking State.</l>
+               <l>Lay by all Fear, nor care vvhat people ſay,</l>
+               <l>For that vvill all your brave deſign betray.</l>
+               <l>VVhen bite they can't, vvhat hurt vvill Barking do!</l>
+               <l>And in ſhort time vve'll ſpoil their Barking too.</l>
+               <l>Make Coffee Clubs, talk of more humble things,</l>
+               <l>Than ſuch Affairs as do belong to Kings.</l>
+               <l>Thus ſpake the hot ſpurr'd Peer. Then one more grave</l>
+               <l>That had much leſs of Fool, but more of Knave,</l>
+               <l>Began—</l>
+            </sp>
+            <sp>
+               <speaker>[Cliff.]</speaker>
+               <l>Great Sir; it gives me great Content,</l>
+               <l>To ſee ſuch Zeal for you vvith one conſent.</l>
+               <l>But yet, tho I'm an Enemy no leſs</l>
+               <l>To Parliaments than they, my ſelf confeſs,</l>
+               <l>I muſt for all that enter my Proteſt</l>
+               <l>Againſt theſe Rambling Councils undigeſt,</l>
+               <l>And tell you, Sir, it is a harder thing</l>
+               <l>Than they Suggeſt to make you ſuch a <hi>King</hi>
+               </l>
+               <pb n="9" facs="tcp:50739:5"/>
+               <l>As what they talk, and I could wiſh you were;</l>
+               <l>The Method they propoſe, will coſt you dear.</l>
+               <l>Old Buildings to pluck down, believe it true,</l>
+               <l>More danger has in't, than in Building New.</l>
+               <l>Or what ſhall raiſe your Supe ſtructure, till</l>
+               <l>Another you have built to ſuit your Will?</l>
+               <l>An Army ſhall, they ſay. Content: but ſtay,</l>
+               <l>From whence ſhall this New Army have its pay?</l>
+               <l>Eaſie and gentle Government a while,</l>
+               <l>Will ſurely be the beſt way to beguile</l>
+               <l>The Peoples Minds, and make them cry up You</l>
+               <l>For this or that, or any thing you do.</l>
+               <l>The Taxes of New Government all will blame,</l>
+               <l>And put the Kingdom ſtrait into a Flame.</l>
+               <l>For Tyranny has no ſuch lovely look</l>
+               <l>To take Men by, unleſs you hide the Hook;</l>
+               <l>And no Bait better hides than preſent Eaſe;</l>
+               <l>Eaſe but their Taxes, then do what you pleaſe.</l>
+               <l>Therefore theſe wild Debates lay by: From whence</l>
+               <l>Shall Money riſe to pay this vaſt Expence!</l>
+               <l>There's only one thing if you will but do,</l>
+               <l>Will gain your Will, and huſh your People too.</l>
+               <l>Strike in with Mother Church, whoſe Boſome ſtands</l>
+               <l>Ope' to receive you, ſtretching forth her hands.</l>
+               <l>Cloſe but this Breach, and you will quickly ſee</l>
+               <l>Her Purſe as open, as her Arms ſhall be.</l>
+               <l>For, Sacred Sir, by gueſs I do not ſpeak;</l>
+               <l>Of Poor ſhe'll make you Rich, and Strong of Weak.</l>
+               <l>At home, abroad, no Money, nor no Men</l>
+               <l>She'll let you lack, turn but to her agen.</l>
+               <l>You may depend, Sir, upon what I ſay;</l>
+               <l>What e're is talk'd on, here's your only way.</l>
+               <l>How can you fail of Honour and Succeſs,</l>
+               <l>When you grow Richer, and Your Taxes leſs.</l>
+               <pb n="10" facs="tcp:50739:6"/>
+               <l>Thus by this Wile you may advance your Crown,</l>
+               <l>And when you'r up, you may pull others down</l>
+            </sp>
+            <sp>
+               <speaker>[Laud.]</speaker>
+               <l>The <hi>Scot</hi> here could no longer hold, but cry'd,</l>
+               <l>Deel Curſe the Pope, and all that's on his ſide.</l>
+               <l>The Whore of <hi>Rome,</hi> the muckle Man of Sin,</l>
+               <l>Plague take the Mother, Barns, and all the Kin.</l>
+               <l>What, muſt we ſee the Paltry, hallow Rood</l>
+               <l>Plac'd in the Kirk again in Deeliſh Mood!</l>
+               <l>Plague take the Loon, the Deel and all his Work,</l>
+               <l>The Pope ſhall ne're again come in the Kirk.</l>
+               <l>Deel fau my Luggs, I'le venture Weem and Crag,</l>
+               <l>E're Popiſh Imps o're Chriſten Men ſhall brag.</l>
+               <l>The <hi>Scot</hi> with Laughter Check'd, and all agreed,</l>
+               <l>The Lord ſpoke laſt, ſhould in his Speech proceed,</l>
+            </sp>
+            <sp>
+               <speaker>[Cliff.]</speaker>
+               <l>Which thus he did. Great Sir, the Seaſon's now</l>
+               <l>Wherein we may both drive and draw the Plow.</l>
+               <l>The beſt that ever came t' advance your Cauſe,</l>
+               <l>To mend or make, or to demoliſh Laws.</l>
+               <l>Beſides the Sum, the Catholicks will advance,</l>
+               <l>You know what offers you are made by <hi>France.</hi>
+               </l>
+               <l>And to have Money, and no Parliaments,</l>
+               <l>Will fully anſwer all our brave Intents.</l>
+               <l>And thus without Tumultiſh Brute, or Huff</l>
+               <l>Of Parliaments, you will have Gold enough.</l>
+               <l>And if neglected now, as none knows when</l>
+               <l>The like Advantage you will have agen,</l>
+               <l>T' extirpate Civil and Religious Right,</l>
+               <l>Thoſe Lime-twigs of the Laws that hold your flight.</l>
+               <l>There's Money to be had t' Exalt your Crown,</l>
+               <l>'Thout ſtooping Majeſty to th' Country Clown.</l>
+               <l>The Triple League I know will be objected,</l>
+               <l>As if by us that ought to be reſpected.</l>
+               <l>For who to Covenants ſo poorly ſticks,</l>
+               <l>With Rebels to keep Faith or Hereticks,</l>
+               <pb n="11" facs="tcp:50739:6"/>
+               <l>With thoſe that neither Church nor Prince affect;</l>
+               <l>Our own Advantage we muſt ſtill reſpect.</l>
+               <l>Unfetter'd Monarchs ſhould walk more at large,</l>
+               <l>The Church does Princes from ſuch Oaths diſcharge:</l>
+               <l>And Kings Abſolv'd have power to leave ot take,</l>
+               <l>And keep no more than do's for Int'reſt make.</l>
+               <l>As you your ſelf have admirably ſhown</l>
+               <l>By burning Solemn Covenants, tho' your own.</l>
+               <l>Faith, Juſtice, Truth, <hi>Plebeian</hi> Vertues be:</l>
+               <l>Look well in them, but not in Majeſty.</l>
+               <l>For, publick Faith is but a publick Thief,</l>
+               <l>The greateſt Cheat, and yields the worſt Relief.</l>
+            </sp>
+            <sp>
+               <speaker>[Orm.]</speaker>
+               <lg>
+                  <l>The Second Lord, tho' Check'd, yet did not fear</l>
+                  <l>Impatient grew, and could no longer bear.</l>
+                  <l>Great Majeſty, Authentick Writers ſay,</l>
+                  <l>The hand when lifted up <hi>Creſſus</hi> to ſlay,</l>
+                  <l>Such deep Impreſſions on the Son did make,</l>
+                  <l>Though dumb before, yet then he forth-with ſpake.</l>
+                  <l>Great Sir, your pardon, if in imitation,</l>
+                  <l>Seeing the danger of your Self and Nation,</l>
+                  <l>My reſolv'd Silence too like him I break,</l>
+                  <l>In ſpight of Frowns, I ſhall, and I muſt ſpeake.</l>
+                  <l>Under what ever doom my boldneſs fall,</l>
+                  <l>Though Fortune, Honour, Life, expos'd to all</l>
+                  <l>The hardeſt Cenſures, and it may be worſe</l>
+                  <l>My Prince's Hatred, and the Papal Curſe:</l>
+                  <l>Yet ſtill for Princes Good I will not fear,</l>
+                  <l>To ſpeak my Conſcience, tho' it coſt me dear.</l>
+                  <l>My Acts have ſpoke ſufficient, ſtill they are</l>
+                  <l>Above what theſe Dictators did or dare.</l>
+                  <l>Wherefore, Great Sir, 'tis Ignorance or Hate,</l>
+                  <l>That gives thoſe Counſels ſo precipitate.</l>
+                  <l>For ſay't I will, nor will I bate my word,</l>
+                  <l>No Counſels, Power, no, nor yet the Sword,</l>
+                  <pb n="12" facs="tcp:50739:7"/>
+                  <l>Can old Foundations alter, or lay new,</l>
+                  <l>Let time interpret who has ſpoken true.</l>
+                  <l>The Country Gentlemen with Beef and Bacon,</l>
+                  <l>Will ſhow hovv much your Courtiers are miſtaken.</l>
+                  <l>For Parliaments are not at that cheap rate,</l>
+                  <l>That down they will vvithout a broken Pate:</l>
+                  <l>And then I doubt you'll find theſe Worthy Lords,</l>
+                  <l>Brave and more <hi>Champion</hi> with their Tongues than Swords.</l>
+                  <l>Wherefore incline not, Sir, your Royal Ear</l>
+                  <l>To their Advice, but ſafer Counſel hear.</l>
+                  <l>Stay ti'l theſe Lords have each a Crown to loſe,</l>
+                  <l>And then conſult with 'em which way they'll chooſe.</l>
+                  <l>Will you All hazard for their Humours ſake,</l>
+                  <l>Who nothing have to loſe, nothing at ſtake!</l>
+                  <l>And at that Game your Royal Crown expoſe,</l>
+                  <l>To gratifie the fooliſh Luſt of thoſe</l>
+                  <l>Who hardly have ſubſiſtence how to live,</l>
+                  <l>But what your Crown and Grace to 'em will give.</l>
+                  <l>For one of thoſe Bag-pudding Gentlemen</l>
+                  <l>(Except their places) would buy nine or ten.</l>
+                  <l>And why we ſhould thus ſlight the Gentleman,</l>
+                  <l>I ſee no Reaſon, nor believe they can.</l>
+                  <l>For had not Gentleman done more than Lord,</l>
+                  <l>I'le boldly ſay't; you ne're bad been reſtor'd.</l>
+                  <l>But why an Armies Greatneſs, Sir! ſhould we</l>
+                  <l>So fond juſt now: all on a ſudden be.</l>
+                  <l>Have they ſuch faithful Guardians been to Powers</l>
+                  <l>That have employ'd them, that you'd make 'em yours?</l>
+                  <l>Our Age does tell, we need not ſeek the Glory</l>
+                  <l>Of Armies Faith in old and doubtful Story.</l>
+                  <l>Your Father 'gainſt the <hi>Scots</hi> an Army rear'd,</l>
+                  <l>But ſoon that Army more than <hi>Scots</hi> he ſeard</l>
+                  <l>And tho' in haſte to raiſe 'em, as we are,</l>
+                  <l>Soon to Disband them was his greateſt care.</l>
+                  <pb n="13" facs="tcp:50739:7"/>
+                  <l>How <hi>Scottiſh</hi> Army after did betray</l>
+                  <l>His Truſt and Perſon both, I need not ſay.</l>
+                  <l>The Lord Protector they ſet up one hour,</l>
+                  <l>The next they pluck't down Protectorean Pow'r.</l>
+                  <l>Your Fathers Block was guarded by thoſe Drudges,</l>
+                  <l>Who after did the ſame thing for his Judges;</l>
+                  <l>And did rejoyce at both in open view,</l>
+                  <l>And would not grudge to do the like by you.</l>
+                  <l>Will you then ſuffer Armies to beguile,</l>
+                  <l>And give your Crown and Self to Croſs and Pile?</l>
+                  <l>What if a <hi>Jeſuit</hi> Swear, Lie, and Feign,</l>
+                  <l>Until your Truſt and Army he ſhould gain:</l>
+                  <l>And you believe his Faith and Oaths are true,</l>
+                  <l>He ſerves himſelf inſtead of ſerving you.</l>
+                  <l>Remember, Sir, what to your Face is ſaid;</l>
+                  <l>No Faith from them to Hereticks is paid.</l>
+                  <l>This is enough to make your Soul abhor them,</l>
+                  <l>And ſtop each Mouth for ever ſpeaking for 'em.</l>
+                  <l>When their own turns are ſerv'd, they'll ſerve you a trick,</l>
+                  <l>And in ſhort time call you plain Heretick.</l>
+                  <l>If Pope command, and you ſhall once ſay nay,</l>
+                  <l>At this Trap-door your Strength ſhall run away.</l>
+                  <l>He'll make you ſtoop and truckle at his pleaſure,</l>
+                  <l>Or elſe yon neither ſhall have Men or Treaſure.</l>
+                  <l>'Tis vain to truſt to either Word or Oath;</l>
+                  <l>They plainly tell you they can violate both.</l>
+                  <l>The more of Friendſhip they pretend or Swear,</l>
+                  <l>The more of Miſchief you have cauſe to fear.</l>
+                  <l>When once the Pope has got the upper-hand,</l>
+                  <l>Againſt your Will you ſoon ſhall underſtand,</l>
+                  <l>That if you croſs him in the ſmalleſt thing,</l>
+                  <l>Unwelcome Storms about your Ears he'll bring.</l>
+                  <l>The Intereſt then of Holy Mother Church,</l>
+                  <l>Will be to leave all ſuch as you i'th' lurch:</l>
+                  <pb n="14" facs="tcp:50739:8"/>
+                  <l>And all your former faithful Friends being down,</l>
+                  <l>'Tis ten to one if you don't loſe your Crown.</l>
+                  <l>Pardon, Great Sir, if Zeal tranſport my Tongue,</l>
+                  <l>To ſhew you what may prove your greateſt wrong.</l>
+                  <l>I can't expoſe your Crown and Sacred Throat</l>
+                  <l>To th' fickle Humours of a falſe red Coat.</l>
+                  <l>But ſpeak I muſt, whatever does inſue,</l>
+                  <l>To hinder what we elſe may live to rue.</l>
+                  <l>The Law your All does fence, ſecure from Fear;</l>
+                  <l>And then what need the noiſe of Bandileer.</l>
+                  <l>Conſider, Sir, 'tis Law that makes you King:</l>
+                  <l>But Sword another to the Crown may bring.</l>
+                  <l>For Force knows no diſtinction: Longeſt Sword</l>
+                  <l>Makes Peaſant Prince, and Lackey above Lord.</l>
+                  <l>If Will be all that we muſt take for Laws,</l>
+                  <l>Your Will may be inferiour to <hi>Jack Straws.</hi>
+                  </l>
+                  <l>If he a greater Force, he has more Right:</l>
+                  <l>Where Law is wanting, if for Will Men Fight,</l>
+                  <l>He's the beſt Man whoſe Sword is ſtill more ſtrong:</l>
+                  <l>Where there's no Law, there's neither Right nor Wrong.</l>
+                  <l>Subjects may Prince, as Prince may them Invade;</l>
+                  <l>The Fence once broken, all is open laid.</l>
+                  <l>See then, Great Sir, how theſe your Throne pull down,</l>
+                  <l>'Stead of exalting your Imperial Crown;</l>
+                  <l>How they diveſt you of your Majeſty:</l>
+                  <l>For Law deſtroy'd, you are no more than we.</l>
+                  <l>In vain will be the Plea of Birth or Crown,</l>
+                  <l>Or Statute Laws, if Parliaments go down.</l>
+                  <l>This Peer went on, and ſhow'd at large moſt plain,</l>
+                  <l>How dang'rous League with <hi>Rome</hi> wou'd be again.</l>
+                  <l>And how we ſuffer'd <hi>France</hi> to gain Renown,</l>
+                  <l>And ſteal away the Glory of our Crown.</l>
+               </lg>
+               <lg>
+                  <l>He's interupted, and bid ſpeak no more,</l>
+                  <l>By inrag'd Majeſty, who deeply Swore</l>
+                  <pb n="15" facs="tcp:50739:8"/>
+                  <l>His Tongue had ſo run o're, that he would take</l>
+                  <l>Such Vengeance on him, and Example make</l>
+                  <l>To after Ages, all that heard ſhould fear</l>
+                  <l>To ſpeak what ſhould diſpleaſe the Royal Ear.</l>
+                  <l>In that unwonted Thunder-Clap he broke,</l>
+                  <l>I ſcarce could fancy it was <hi>Charles</hi> that ſpoke.</l>
+                  <l>Methought, and 'twas a Thought of ſtrange Preſage,</l>
+                  <l>
+                     <hi>Charles</hi> utter'd, but Great <hi>James</hi> inſpir'd the Rage.</l>
+                  <l>The more Imperial Ducal Fury blow'd,</l>
+                  <l>And tun'd the Royal Organ Pipe ſo loud.</l>
+               </lg>
+               <lg>
+                  <l>The Lord that ſpoke before 's bid to go on,</l>
+                  <l>And all commanded Silence 'till he has done.</l>
+                  <l>Who thus proceeded —</l>
+                  <l>If the Lord ſpoke laſt,</l>
+                  <l>To interrupt me had not made ſuch haſte,</l>
+                  <l>I ſoon had done, for I was come, Great Sir,</l>
+                  <l>T' Adviſe your ſending <hi>Dutch</hi> Ambaſſador</l>
+                  <l>To keep them ſtill a while, altho' we Flatter,</l>
+                  <l>Promiſe, Careſs, Cajole, Betray, no matter.</l>
+                  <l>Tho' we break Faith, Leagues, Treaties, all t' advance</l>
+                  <l>Your dearer ſworn Fidelity to <hi>France.</hi>
+                  </l>
+                  <l>And when all's done that can be done by Man,</l>
+                  <l>Much muſt be left to Chance do what we can.</l>
+                  <l>If you of <hi>Dutch</hi> can make an utter end,</l>
+                  <l>And make the Catholick Chriſtian World your Friend,</l>
+                  <l>Then ſure you'll have enough of Men and Treaſure,</l>
+                  <l>Enough of both to execute your pleaſure.</l>
+                  <l>And tho' that Noble Lord ſeems to perſwade</l>
+                  <l>Confiding Armies are not to be had:</l>
+                  <l>True, tho' perhaps the <hi>Engliſh</hi> Hereticks</l>
+                  <l>In ſuch a Cauſe may play ſome ſlippery Tricks,</l>
+                  <l>And joyn not hearty in your Holy League;</l>
+                  <l>Raiſe then your <hi>Iriſh</hi> Friends: The Truſty <hi>Teague</hi>
+                  </l>
+                  <pb n="16" facs="tcp:50739:9"/>
+                  <l>To <hi>Rome</hi>'s dear Pipe will moſt devoutly Dance,</l>
+                  <l>And then what ſtrength they want your Cauſe t' advance,</l>
+                  <l>Send o're, and borrow all the reſt from <hi>France.</hi>
+                  </l>
+                  <l>This Project does the Feat: You need no more.</l>
+                  <l>Steer by this Chart, and Land on th' Golden Shore.</l>
+                  <l>And tho' perhaps your Glaſs Life may run</l>
+                  <l>Too faſt, to ſee this bleſſed Work all done.</l>
+                  <l>Tho' kind Heaven lengthen out your happy Days,</l>
+                  <l>And Crown you late with the Immortal Bays;</l>
+                  <l>A Crown ſhould be ſo much a good King's Care,</l>
+                  <l>As ſtudy t' entail Bleſſings on his Heir.</l>
+                  <l>And what though poſſibly you may not raiſe</l>
+                  <l>The Fabrick up entire in your own Days:</l>
+                  <l>Make the Foundation, and the Wall's but yours:</l>
+                  <l>Leave <hi>James</hi> to build the Battlements and Towers.</l>
+                  <l>
+                     <hi>James,</hi> whoſe each Word the Credulous World ſhall Truſt,</l>
+                  <l>Proud of the Name, though not the Thought of <hi>Juſt.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <lg>
+               <l>This Speech thus ended, Six of Seven agree,</l>
+               <l>
+                  <hi>France</hi> ſhould be lov'd, and <hi>Holland</hi> hated be.</l>
+               <l>At laſt I wak'd, and took a ſerious View</l>
+               <l>Of long revolving Cauſes, Old and New;</l>
+               <l>And by their whole ſucceſſive Chain I knew</l>
+               <l>My Dream told Truth; our preſent Ills a 'courſe</l>
+               <l>Took from this Fountain their original Source.</l>
+               <l>'Twas <hi>Charles</hi> begun the Clue that <hi>James</hi> has ſpun:</l>
+               <l>The fatal Meaſures have our World undone.</l>
+               <l>And if Cabals thus ſerve us <hi>Engliſhmen,</hi>
+               </l>
+               <l>'Tis ten to one but we ſhall Dream agen.</l>
+               <l>And being diſturb'd in Sleep our Brains will ake,</l>
+               <l>And make us Peeviſh when we are awake.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
